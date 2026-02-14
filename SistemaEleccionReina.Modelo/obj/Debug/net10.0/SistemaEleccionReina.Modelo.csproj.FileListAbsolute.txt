@@ -1,0 +1,11 @@
+C:\Users\Samsung\source\repos\SistemaMvc_EleccionesReina\SistemaEleccionReina.Modelo\bin\Debug\net10.0\SistemaEleccionReina.Modelo.deps.json
+C:\Users\Samsung\source\repos\SistemaMvc_EleccionesReina\SistemaEleccionReina.Modelo\bin\Debug\net10.0\SistemaEleccionReina.Modelo.dll
+C:\Users\Samsung\source\repos\SistemaMvc_EleccionesReina\SistemaEleccionReina.Modelo\bin\Debug\net10.0\SistemaEleccionReina.Modelo.pdb
+C:\Users\Samsung\source\repos\SistemaMvc_EleccionesReina\SistemaEleccionReina.Modelo\obj\Debug\net10.0\SistemaEleccionReina.Modelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samsung\source\repos\SistemaMvc_EleccionesReina\SistemaEleccionReina.Modelo\obj\Debug\net10.0\SistemaEleccionReina.Modelo.AssemblyInfoInputs.cache
+C:\Users\Samsung\source\repos\SistemaMvc_EleccionesReina\SistemaEleccionReina.Modelo\obj\Debug\net10.0\SistemaEleccionReina.Modelo.AssemblyInfo.cs
+C:\Users\Samsung\source\repos\SistemaMvc_EleccionesReina\SistemaEleccionReina.Modelo\obj\Debug\net10.0\SistemaEleccionReina.Modelo.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\source\repos\SistemaMvc_EleccionesReina\SistemaEleccionReina.Modelo\obj\Debug\net10.0\SistemaEleccionReina.Modelo.dll
+C:\Users\Samsung\source\repos\SistemaMvc_EleccionesReina\SistemaEleccionReina.Modelo\obj\Debug\net10.0\refint\SistemaEleccionReina.Modelo.dll
+C:\Users\Samsung\source\repos\SistemaMvc_EleccionesReina\SistemaEleccionReina.Modelo\obj\Debug\net10.0\SistemaEleccionReina.Modelo.pdb
+C:\Users\Samsung\source\repos\SistemaMvc_EleccionesReina\SistemaEleccionReina.Modelo\obj\Debug\net10.0\ref\SistemaEleccionReina.Modelo.dll

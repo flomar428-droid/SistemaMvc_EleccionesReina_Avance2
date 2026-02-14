@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "joY6CfTUgMw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Samsung\\source\\repos\\SistemaMvc_EleccionesReina\\SistemaEleccionReina.Negocio\\SistemaEleccionReina.Negocio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Samsung\\.nuget\\packages\\system.configuration.configurationmanager\\10.0.3\\system.configuration.configurationmanager.10.0.3.nupkg.sha512",
+    "C:\\Users\\Samsung\\.nuget\\packages\\system.data.oledb\\10.0.3\\system.data.oledb.10.0.3.nupkg.sha512",
+    "C:\\Users\\Samsung\\.nuget\\packages\\system.diagnostics.eventlog\\10.0.3\\system.diagnostics.eventlog.10.0.3.nupkg.sha512",
+    "C:\\Users\\Samsung\\.nuget\\packages\\system.diagnostics.performancecounter\\10.0.3\\system.diagnostics.performancecounter.10.0.3.nupkg.sha512",
+    "C:\\Users\\Samsung\\.nuget\\packages\\system.security.cryptography.protecteddata\\10.0.3\\system.security.cryptography.protecteddata.10.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+C:\Users\Samsung\source\repos\SistemaMvc_EleccionesReina\SistemaEleccionReina.Negocio\bin\Debug\net10.0\SistemaEleccionReina.Negocio.deps.json
+C:\Users\Samsung\source\repos\SistemaMvc_EleccionesReina\SistemaEleccionReina.Negocio\bin\Debug\net10.0\SistemaEleccionReina.Negocio.dll
+C:\Users\Samsung\source\repos\SistemaMvc_EleccionesReina\SistemaEleccionReina.Negocio\bin\Debug\net10.0\SistemaEleccionReina.Negocio.pdb
+C:\Users\Samsung\source\repos\SistemaMvc_EleccionesReina\SistemaEleccionReina.Negocio\bin\Debug\net10.0\SistemaEleccionReina.Datos.dll
+C:\Users\Samsung\source\repos\SistemaMvc_EleccionesReina\SistemaEleccionReina.Negocio\bin\Debug\net10.0\SistemaEleccionReina.Modelo.dll
+C:\Users\Samsung\source\repos\SistemaMvc_EleccionesReina\SistemaEleccionReina.Negocio\bin\Debug\net10.0\SistemaEleccionReina.Datos.pdb
+C:\Users\Samsung\source\repos\SistemaMvc_EleccionesReina\SistemaEleccionReina.Negocio\bin\Debug\net10.0\SistemaEleccionReina.Modelo.pdb
+C:\Users\Samsung\source\repos\SistemaMvc_EleccionesReina\SistemaEleccionReina.Negocio\obj\Debug\net10.0\SistemaEleccionReina.Negocio.csproj.AssemblyReference.cache
+C:\Users\Samsung\source\repos\SistemaMvc_EleccionesReina\SistemaEleccionReina.Negocio\obj\Debug\net10.0\SistemaEleccionReina.Negocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samsung\source\repos\SistemaMvc_EleccionesReina\SistemaEleccionReina.Negocio\obj\Debug\net10.0\SistemaEleccionReina.Negocio.AssemblyInfoInputs.cache
+C:\Users\Samsung\source\repos\SistemaMvc_EleccionesReina\SistemaEleccionReina.Negocio\obj\Debug\net10.0\SistemaEleccionReina.Negocio.AssemblyInfo.cs
+C:\Users\Samsung\source\repos\SistemaMvc_EleccionesReina\SistemaEleccionReina.Negocio\obj\Debug\net10.0\SistemaEleccionReina.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\source\repos\SistemaMvc_EleccionesReina\SistemaEleccionReina.Negocio\obj\Debug\net10.0\SistemaE.74C6B375.Up2Date
+C:\Users\Samsung\source\repos\SistemaMvc_EleccionesReina\SistemaEleccionReina.Negocio\obj\Debug\net10.0\SistemaEleccionReina.Negocio.dll
+C:\Users\Samsung\source\repos\SistemaMvc_EleccionesReina\SistemaEleccionReina.Negocio\obj\Debug\net10.0\refint\SistemaEleccionReina.Negocio.dll
+C:\Users\Samsung\source\repos\SistemaMvc_EleccionesReina\SistemaEleccionReina.Negocio\obj\Debug\net10.0\SistemaEleccionReina.Negocio.pdb
+C:\Users\Samsung\source\repos\SistemaMvc_EleccionesReina\SistemaEleccionReina.Negocio\obj\Debug\net10.0\ref\SistemaEleccionReina.Negocio.dll

@@ -1,0 +1,15 @@
+C:\Users\Samsung\source\repos\SistemaMvc_EleccionesReina\SistemaEleccionReina.Datos\bin\Debug\net10.0\SistemaEleccionReina.Datos.deps.json
+C:\Users\Samsung\source\repos\SistemaMvc_EleccionesReina\SistemaEleccionReina.Datos\bin\Debug\net10.0\SistemaEleccionReina.Datos.dll
+C:\Users\Samsung\source\repos\SistemaMvc_EleccionesReina\SistemaEleccionReina.Datos\bin\Debug\net10.0\SistemaEleccionReina.Datos.pdb
+C:\Users\Samsung\source\repos\SistemaMvc_EleccionesReina\SistemaEleccionReina.Datos\obj\Debug\net10.0\SistemaEleccionReina.Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samsung\source\repos\SistemaMvc_EleccionesReina\SistemaEleccionReina.Datos\obj\Debug\net10.0\SistemaEleccionReina.Datos.AssemblyInfoInputs.cache
+C:\Users\Samsung\source\repos\SistemaMvc_EleccionesReina\SistemaEleccionReina.Datos\obj\Debug\net10.0\SistemaEleccionReina.Datos.AssemblyInfo.cs
+C:\Users\Samsung\source\repos\SistemaMvc_EleccionesReina\SistemaEleccionReina.Datos\obj\Debug\net10.0\SistemaEleccionReina.Datos.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\source\repos\SistemaMvc_EleccionesReina\SistemaEleccionReina.Datos\obj\Debug\net10.0\SistemaEleccionReina.Datos.dll
+C:\Users\Samsung\source\repos\SistemaMvc_EleccionesReina\SistemaEleccionReina.Datos\obj\Debug\net10.0\refint\SistemaEleccionReina.Datos.dll
+C:\Users\Samsung\source\repos\SistemaMvc_EleccionesReina\SistemaEleccionReina.Datos\obj\Debug\net10.0\SistemaEleccionReina.Datos.pdb
+C:\Users\Samsung\source\repos\SistemaMvc_EleccionesReina\SistemaEleccionReina.Datos\obj\Debug\net10.0\ref\SistemaEleccionReina.Datos.dll
+C:\Users\Samsung\source\repos\SistemaMvc_EleccionesReina\SistemaEleccionReina.Datos\obj\Debug\net10.0\SistemaEleccionReina.Datos.csproj.AssemblyReference.cache
+C:\Users\Samsung\source\repos\SistemaMvc_EleccionesReina\SistemaEleccionReina.Datos\bin\Debug\net10.0\SistemaEleccionReina.Modelo.dll
+C:\Users\Samsung\source\repos\SistemaMvc_EleccionesReina\SistemaEleccionReina.Datos\bin\Debug\net10.0\SistemaEleccionReina.Modelo.pdb
+C:\Users\Samsung\source\repos\SistemaMvc_EleccionesReina\SistemaEleccionReina.Datos\obj\Debug\net10.0\SistemaE.7C47A21A.Up2Date
