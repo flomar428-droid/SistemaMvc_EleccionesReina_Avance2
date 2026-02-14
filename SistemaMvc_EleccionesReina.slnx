@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="SistemaEleccionReina.Datos/SistemaEleccionReina.Datos.csproj" />
+  <Project Path="SistemaEleccionReina.Modelo/SistemaEleccionReina.Modelo.csproj" />
+  <Project Path="SistemaEleccionReina.Negocio/SistemaEleccionReina.Negocio.csproj" />
+  <Project Path="SistemaMvc_EleccionesReina/SistemaMvc_EleccionesReina.csproj" />
+</Solution>

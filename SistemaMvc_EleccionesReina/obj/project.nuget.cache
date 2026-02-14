@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bNToi7xFZuU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Samsung\\source\\repos\\SistemaMvc_EleccionesReina\\SistemaMvc_EleccionesReina\\SistemaMvc_EleccionesReina.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Samsung\\.nuget\\packages\\system.data.oledb\\10.0.3\\system.data.oledb.10.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
